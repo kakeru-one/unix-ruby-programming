@@ -12,3 +12,7 @@
 
 ## UNIXシグナルについて
 - https://qiita.com/Kernel_OGSun/items/e96cef5487e25517a576#1-%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB%E3%81%A8%E3%81%AF
+
+## シグナルハンドラを上書きする実用例
+- https://yhbt.net/unicorn/SIGNALS.html
+- https://github.com/ice799/memprof
