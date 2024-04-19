@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Usage: ps -ho pid,state -p [ゾンビになったプロセスの pid]
+ps -ho pid,state -p $1
