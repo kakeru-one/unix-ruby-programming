@@ -24,7 +24,7 @@ end
 - コンピュータの話で並行と並列というのは、CPUがどんな様子で仕事をするのか？で考える。
   - CPUのcoreが1つだけの場合、並列処理というのはありえない。
 
-<img src="/img/pararell_and_concurrent.png">
+<img src="../img/pararell_and_concurrent.png">
 
 ### 並行(concurrent)
 - ある1つの時点では、1つの仕事しかしていないが、複数の仕事間を切り替えることによって、同時にやっているように見えること。
